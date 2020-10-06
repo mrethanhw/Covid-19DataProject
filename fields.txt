@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 key
 details.Food and drink.category
 details.Food and drink.names
@@ -51,4 +52,59 @@ stay_at_home.has_expired
 stay_at_home.name
 stay_at_home.starts
 stay_at_home.starts_display
+=======
+key
+details.Food and drink.category
+details.Food and drink.names
+details.Food and drink.reopen_dates
+details.Houses of worship.category
+details.Houses of worship.names
+details.Houses of worship.reopen_dates
+details.Industries.category
+details.Industries.names
+details.Industries.reopen_dates
+details.Personal care.category
+details.Personal care.names
+details.Personal care.reopen_dates
+details.Retail.category
+details.Retail.names
+details.Retail.reopen_dates
+details.Outdoor and recreation.category
+details.Outdoor and recreation.names
+details.Outdoor and recreation.reopen_dates
+details.Entertainment.category
+details.Entertainment.reopen_dates
+details.Entertainment.names
+details_closed.Food and drink.category
+details_closed.Food and drink.names
+details_closed.Food and drink.reopen_dates
+details_closed.Houses of worship.category
+details_closed.Houses of worship.names
+details_closed.Houses of worship.reopen_dates
+details_closed.Industries.category
+details_closed.Industries.names
+details_closed.Industries.reopen_dates
+details_closed.Personal care.category
+details_closed.Personal care.names
+details_closed.Personal care.reopen_dates
+details_closed.Retail.category
+details_closed.Retail.names
+details_closed.Retail.reopen_dates
+details_closed.Outdoor and recreation.category
+details_closed.Outdoor and recreation.names
+details_closed.Outdoor and recreation.reopen_dates
+details_closed.Entertainment.category
+details_closed.Entertainment.reopen_dates
+details_closed.Entertainment.names
+state_postal
+stay_at_home.expires
+stay_at_home.expires_display
+stay_at_home.expires_today
+stay_at_home.expiring_soon
+stay_at_home.had_order
+stay_at_home.has_expired
+stay_at_home.name
+stay_at_home.starts
+stay_at_home.starts_display
+>>>>>>> 4d36374fde536917603a47ce5a9ad5db89b38ad1
 reopen_dates_all.0
