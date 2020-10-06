@@ -1,0 +1,18 @@
+Categories,Weights,Weights,Weights,Weights,Weights
+Food and Drink,2,2,2,2,1
+Personal Care,1,1,1,1,1
+Retail,1,1,1,1,1
+Libraries/Museums,1,1,0,0,0
+Entertainment(Indoor),1,1,1,1,1
+Entertainment(Outdoor),1,1,1,1,1
+Industries,1,1,1,1,1
+Houses of Worship,1,1,0,0,0
+Outdoor Recreation,1,1,1,1,1
+Indoor Recreation,1,1,1,1,1
+Travel,1,1,0,0,1
+Stay-at-Home Order,2,8,0,2,1
+Education,1,1,0,0,1
+Gatherings,1,1,0,0,1
+Business,1,1,0,0,0
+Non-Essential Business,2,2,0,0,0
+Face Coverings,1.5,4,0,2,1
